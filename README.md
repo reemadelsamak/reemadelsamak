@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=UI+and+Frontend+Developer)](https://git.io/typing-svg)
 
-- Graduated from 9-Month Program at ITI, **Open Source Application Development Diploma**
+- Graduated from 9-Month Program at <b>ITI</b>, **Open Source Application Development Diploma**
 
 - Graduated from Faculty of Engineering, **Mansoura University**
 
